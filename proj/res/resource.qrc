@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>faces/Cool.png</file>
+        <file>faces/Sad.png</file>
+        <file>faces/Smile.png</file>
+        <file>faces/Surprise.png</file>
+        <file>faces2/Laugh.png</file>
+        <file>faces2/Sad.png</file>
+        <file>faces2/Smile.png</file>
+        <file>faces2/Surprise.png</file>
+        <file>mines.bmp</file>
+        <file>MainImage.png</file>
+        <file>images/game-difficulty-1.png</file>
+        <file>images/game-difficulty-2.png</file>
+        <file>images/game-difficulty-3.png</file>
+        <file>images/file-exit.png</file>
+        <file>images/file-new.png</file>
+        <file>images/help-about.png</file>
+        <file>images/menu-languages.png</file>
+        <file>images/game-difficulty-x.png</file>
+    </qresource>
+</RCC>
